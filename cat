@@ -1,0 +1,2 @@
+cat: [arg1] displays contents of arg1(file)
+cat: [arg1] [arg2] [arg...] concatenates contents of arg1 to contents of arg2 and displays the result

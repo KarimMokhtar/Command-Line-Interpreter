@@ -1,0 +1,1 @@
+rm: [arg] deletes a file whose name is the given argument

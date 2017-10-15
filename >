@@ -1,0 +1,4 @@
+Redirect the output to be written to a file using the
+redirect >> overwrite to file operator.
+If the file is not exist, it will be created.
+

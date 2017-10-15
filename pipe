@@ -1,0 +1,4 @@
+Use pipes “ | “ to redirect the output of the
+previous command as in input to another
+command.
+
